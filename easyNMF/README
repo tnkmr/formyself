@@ -1,0 +1,2 @@
+NMF class needs Eigen (http://eigen.tuxfamily.org/index.php?title=Main_Page).
+Put Eigen sources into "./include".
