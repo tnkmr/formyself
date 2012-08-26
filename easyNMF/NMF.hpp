@@ -1,11 +1,8 @@
 /*! @brief NMF c/c++ header hpp
  * @author Tomohiko Nakamura 
- * @email nakamura@hil.t.u-tokyo.ac.jp
  */
 #ifndef NMF_HPP
 #define NMF_HPP
-
-const double myEPS=1e-5;
 
 #include <Eigen/Core>
 /*! @namespace nmf
